@@ -4,3 +4,9 @@
 [submodule "examples/whatsapp"]
 	path = examples/whatsapp
 	url = https://github.com/DAB0mB/angular-meteor-whatsapp
+[submodule "Todos"]
+	path = Todos
+	url = https://github.com/algobet/Todos.git
+[submodule "Whatsapp"]
+	path = Whatsapp
+	url = https://github.com/algobet/Whatsapp.git
