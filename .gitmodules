@@ -1,0 +1,6 @@
+[submodule "examples/todos"]
+	path = examples/todos
+	url = https://github.com/meteor/todos.git
+[submodule "examples/whatsapp"]
+	path = examples/whatsapp
+	url = https://github.com/DAB0mB/angular-meteor-whatsapp
