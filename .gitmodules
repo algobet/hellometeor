@@ -10,3 +10,9 @@
 [submodule "Whatsapp"]
 	path = Whatsapp
 	url = https://github.com/algobet/Whatsapp.git
+[submodule "Landing"]
+	path = Landing
+	url = https://github.com/algobet/Landing.git
+[submodule "examples/landing"]
+	path = examples/landing
+	url = https://github.com/DiscoverMeteor/Microscope.git

@@ -2,6 +2,15 @@
 `Meteor project practice | algobet Labs © 2016`
 
 ## Sample Projects from Meteor Tutorials
+> ### Landing - Blaze - Submodule
+`./Landing/`
+
+    $ git submodule add https://github.com/algobet/Landing.git Landing
+
+    
+#### 0-to-1:
+
+
 > ### Todos - ReactJS - Submodule
 `./Todos/`
 
@@ -29,6 +38,11 @@
 
 
 ## Examples - Submodules
+> ### landing - blazeJS
+`./examples/landing/`
+
+    $ git submodule add https://github.com/DiscoverMeteor/Microscope.git examples/landing
+
 > ### todos - reactJS
 `./examples/todos/`
 
