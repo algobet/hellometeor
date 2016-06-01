@@ -2,7 +2,7 @@
 `Meteor project practice | algobet Labs © 2016`
 
 ## Sample Projects from Meteor Tutorials
-> ### Landing - Blaze - Submodule
+> ### Landing - ReactJS - Submodule
 `./Landing/`
 
     $ git submodule add https://github.com/algobet/Landing.git Landing
@@ -60,3 +60,9 @@
     
     $ git pull
     $ git submodule update
+    or
+    $ git submodule update --remote
+    
+    $ git add .
+    $ git commit . -m "your-commit-description"
+    $ git push
