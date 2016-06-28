@@ -1,13 +1,15 @@
 # HELLO METEOR
 `Meteor project practice | algobet Labs © 2016`
 
+< hope MeteorJS can help development of apps >
+
 ## Sample Projects from Meteor Tutorials
 > ### Landing - ReactJS - Submodule
 `./Landing/`
 
     $ git submodule add https://github.com/algobet/Landing.git Landing
 
-    
+
 #### 0-to-1:
 
 
@@ -19,11 +21,11 @@
 
 #### 0-to-1:
 
-    
+
 #### Testing:
     $ meteor add practicalmeteor:mocha
     $ meteor test --driver-package practicalmeteor:mocha
-    
+
 #### What's next?
     $ meteor create --example todos
     $ meteor create --example localmarket
@@ -57,12 +59,12 @@
     $ git clone https://github.com/algobet/hellometeor.git
     $ cd hellometeor
     $ git submodule init
-    
+
     $ git pull
     $ git submodule update
     or
     $ git submodule update --remote
-    
+
     $ git add .
     $ git commit . -m "your-commit-description"
     $ git push
